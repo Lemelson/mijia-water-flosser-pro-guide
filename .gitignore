@@ -1,0 +1,5 @@
+.DS_Store
+*_original
+.openai/
+work/
+node_modules/

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lemelson.github.io/mijia-water-flosser-pro-guide/sitemap.xml
