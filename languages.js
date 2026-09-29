@@ -10,6 +10,9 @@
     ['uk', 'Українська', 'Мова інструкції'],
     ['kk', 'Қазақша', 'Нұсқаулық тілі'],
     ['uz', 'Oʻzbekcha', 'Qoʻllanma tili'],
+    ['pt-BR', 'Português (Brasil)', 'Idioma do guia'],
+    ['vi', 'Tiếng Việt', 'Ngôn ngữ hướng dẫn'],
+    ['pl', 'Polski', 'Język instrukcji'],
   ];
   const siteRoot = new URL('.', document.currentScript.src);
   const pathParts = location.pathname.split('/').filter(Boolean);

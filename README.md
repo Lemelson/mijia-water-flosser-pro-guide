@@ -4,14 +4,14 @@ An independent visual guide for the **Mijia Smart Water Flosser Pro ME0706**, tr
 
 **[Open the guide](https://lemelson.github.io/mijia-water-flosser-pro-guide/)** · **[English](https://lemelson.github.io/mijia-water-flosser-pro-guide/en/)**
 
-Languages: Russian, English, Simplified Chinese, Hindi, Spanish, Arabic, French, Ukrainian, Kazakh and Uzbek. Device labels remain in Chinese so they can be matched to the real display.
+Languages: Russian, English, Simplified Chinese, Hindi, Spanish, Arabic, French, Ukrainian, Kazakh, Uzbek, Brazilian Portuguese, Vietnamese and Polish. Device labels remain in Chinese so they can be matched to the real display.
 
 ## Features
 
 - Interactive display simulator, mode comparison, first-use checklist and practice timer.
 - Eight readable sections per language, each with a separate URL and pre-rendered text.
 - Responsive layout, Arabic right-to-left layout, printable pages and language switching that retains the current section.
-- Canonical URLs, language alternates, structured page data and an 80-page sitemap.
+- Canonical URLs, language alternates, structured page data and a 104-page sitemap.
 
 ## Privacy of published files
 
